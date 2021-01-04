@@ -16,10 +16,9 @@ python3 addon_manager.py --install https://github.com/AlfredoSequeida/openweathe
 
 ### setup
 Manually updating Karen's config file or using the Karen app, set the following settings:
+lat - Lattitude of the location for which you want to get weather information.
 
-lat - Lattitude of where you want to get the weather from
-
-long - Longitude of where you want to get the weather from
+long - Longitude of the location for which you want to get weather information.
 
 units - Units to use for weather information. The valid options are `imperial`, `metric`, and `standard`
 
