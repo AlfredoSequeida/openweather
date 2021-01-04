@@ -11,7 +11,7 @@
 ### installation
 This add-on can be installed using the Karen App or via Karen's addon manager
 ```
-python3 addon_manager --install https://github.com/AlfredoSequeida/openweather
+python3 addon_manager.py --install https://github.com/AlfredoSequeida/openweather
 ```
 
 ### setup
