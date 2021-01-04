@@ -1,5 +1,5 @@
 # openweather
-### Karen addon to get weather information using the [openweather API](https://openweathermap.org/api)
+### Karen addon to get weather information using the [openweather One Call API](https://openweathermap.org/api/one-call-api)
 
 ### commands
 ```
