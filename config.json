@@ -1,0 +1,19 @@
+{
+  "commands": [
+    "what's the 7-day forecast",
+    "what's the weather",
+    "what's the forecast"
+  ],
+  "entry-point": "openweather",
+  "languages": ["en"],
+  "name": "openweather",
+  "developer": "Alfredo Sequeida",
+  "required_packages": ["requests"],
+  "settings": {
+    "lat": "",
+    "long": "",
+    "units": "imperial",
+    "api_key": ""
+  },
+  "version": "0.0.1"
+}
