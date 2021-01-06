@@ -5,6 +5,7 @@
     "what's the forecast"
   ],
   "entry-point": "openweather",
+  "icon": "icon.png",
   "languages": ["en"],
   "name": "openweather",
   "developer": "Alfredo Sequeida",
