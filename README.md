@@ -1,7 +1,9 @@
 # openweather
+
 ### Karen addon to get weather information using the [openweather One Call API](https://openweathermap.org/api/one-call-api)
 
 ### commands
+
 ```
 "what's the 7-day forecast",
 "what's the weather",
@@ -9,12 +11,15 @@
 ```
 
 ### installation
+
 This add-on can be installed using the Karen App or via Karen's addon manager
+
 ```
 python3 addon_manager.py --install https://github.com/AlfredoSequeida/openweather
 ```
 
 ### setup
+
 Manually updating Karen's config file or using the Karen app, set the following settings:
 
 lat - Lattitude of the location for which you want to get weather information.
